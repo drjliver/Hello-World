@@ -1,3 +1,3 @@
-# Hello-World ;
-My first repository for practice;
-Edit #1;
+# Hello-World 
+My first repository for practice
+Edit #1
